@@ -1,0 +1,95 @@
+*******************************Groovy Beginner Tutorial 1 | What is Groovy***************************************
+
+References: 
+http://groovy-lang.org/ 
+https://en.wikipedia.org/wiki/Apache_... 
+
+Static and Dynamic programming languages 
+https://en.wikipedia.org/wiki/Dynamic... 
+https://stackoverflow.com/questions/2... 
+
+******************************Groovy Beginner Tutorial 2 | How to install groovy on Windows os*******************
+
+Pre-requisite 
+Java should be installed 
+
+References How to install java on windows 
+https://www.youtube.com/watch?v=FqpmH... 
+
+https://groovy.apache.org/download.html 
+http://groovy-lang.org/install.html
+
+CMD Commands to check installation:
+groovy --version
+groovy -v
+where groovy (To find installed location)
+
+*******************************Groovy Beginner Tutorial 3 | How to install groovy on Mac OS**********************
+
+Pre-requisite 
+Java should be installed 
+java -version 
+
+http://groovy-lang.org/install.html#_... 
+https://brew.sh/ 
+
+brew install groovy 
+groovy -vgroovy --version
+
+*******************************Groovy Beginner Tutorial 4 | IDE and Text Editor for Groovy***********************
+
+IDE - Integrated development environment 
+
+Text Editors 
+http://groovy-lang.org/ides.html
+
+*******************************Groovy Beginner Tutorial 6 | How to run groovy on Visual Studio Code**************
+
+How to run groovy on Visual Studio Code 
+
+Step 1 : Download and install VS Code 
+https://www.youtube.com/playlist?list... 
+
+Step 2 : Open VS Code and goto Extensions install code-groovy 
+
+Step 3 : Create a folder - Create a file with .groovy extenstion 
+
+Step 4 : Write groovy code in the file 
+
+Step 5 : Run and Validate 
+
+*******************************Groovy Beginner Tutorial 7 | Getting Started with basic programming | Hello World**
+
+First Groovy program | Hello World 
+
+Create groovy project 
+Create groovy class 
+Write code to print Hello World 
+Run the program 
+Run from command line 
+Basic syntax 
+Comments 
+
+Step 1 : Create a groovy project 
+
+Step 2 : Create a new class 
+
+Step 3 : Write code to print Hello World 
+
+Step 4 : Run 
+
+Step 5 : Run from command line 
+
+*******************************Groovy Beginner Tutorial 8 | Variables**********************************************
+
+Variables in Groovy 
+
+How to define variables 
+How to name variables 
+letters, digits, underscore _ 
+groovy is case sensitive 
+Multiple assignments 
+
+References http://groovy-lang.org/semantics.html
+
+
